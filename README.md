@@ -18,7 +18,6 @@ Success Tracking: A hidden point system tracks whether the player has gathered e
 📂 Project Structure
 adventure_game.py: The main Python script containing the game logic.
 
-Report.pdf: A summary of how GitHub Copilot was utilized to build and optimize the code.
 
 🚀 How to Run
 Ensure you have Python 3.x installed.
@@ -27,7 +26,8 @@ Clone this repository:
 
 Bash
 
-git clone <your-github-link-here>
+git clone https://github.com/vyaskhyati2019/adventure-game.git
+cd adventure-game
 Navigate to the directory and run the script:
 
 Bash
